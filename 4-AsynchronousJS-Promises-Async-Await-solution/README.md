@@ -9,12 +9,13 @@
 
   ***STEP 1:*** 
 
-    Using file system in js, read dog.txt file.
+    eUsing file system in js, read dog.txt file.
 
   ***STEP 2:***
 
     Read about `superagent`, for fetching an api and using npm, install the mentioned library. You can use the 
     following resource for better understanding.
+    https://www.npmjs.com/package/superagent
 
   ***STEP 3:***
 
@@ -25,7 +26,7 @@
     mentioned in dog.txt file.
 
   ***STEP 4:***
-  
+
     Take the response from superagent, and store the image in a new file called -> `dog-img.txt`.
 
   ***NOTE:*** You can also handle the edge case like -> if the image of the dog is not available 
