@@ -1,0 +1,16 @@
+{
+  "name": "2-lab-reading-and-writing-files-asynchronously-solution",
+  "version": "1.0.0",
+  "description": "Asynchronous File I/O in Node.js with Error Handling",
+  "main": "readFileWithErrorHandling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
