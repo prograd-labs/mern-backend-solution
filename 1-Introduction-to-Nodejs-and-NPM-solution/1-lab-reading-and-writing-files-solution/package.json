@@ -1,0 +1,16 @@
+{
+  "name": "1-lab-reading-and-writing-files-solution",
+  "version": "1.0.0",
+  "description": "Synchronous File I/O in Node.js with Error Handling",
+  "main": "readFileSyncWithErrorHandling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
